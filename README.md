@@ -116,3 +116,6 @@ And I also thank the many other people who participated even once in this projec
 
 (If you use Box64 in your project, please don't forget to mention it!)
 
+
+---
+<sub>☕ [Support on Ko-fi](https://ko-fi.com/the412banner)</sub>
